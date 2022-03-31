@@ -33,6 +33,8 @@ function PageTitle(props: PageTitlePropsType) {
     console.log("PageTitle rendered")
     return <h1>{ props.title }</h1>
 
+
+
 }
 
 
