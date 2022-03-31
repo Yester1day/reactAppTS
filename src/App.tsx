@@ -14,8 +14,8 @@ function App(props: any ) {
     return (
 
         <div>
-            <PageTitle title={"This is APP component"}/>
-            <PageTitle title={"My friends"}/>
+            <PageTitle title={"This is  APP  component"}/>
+            <PageTitle title={"Mygit sttauas friends"}/>
             Article 1
             <Rating value={1}/>
             <Accordion titleValue={"Menu"} />
